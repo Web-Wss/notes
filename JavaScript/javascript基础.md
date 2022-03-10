@@ -76,7 +76,7 @@ JavaScript代码需要编写在<script></script>>中
 - js底层保存标识符实际上时采用Unicode编码
 - 所以理论上将，所有的utf-8中含有的内容都是可以作为标识符
 
-![image-20210824175544518](https://github.com/Chcj-Wei/JavaScript/blob/master/JavaScript%E5%9F%BA%E7%A1%80/image-20210824175544518.png)
+![image-20210824175544518](https://github.com/Web-Wss/notes/blob/main/JavaScript/image-20210824175544518.png)
 
 # 数据类型：
 
@@ -450,7 +450,7 @@ js中，运算符也有优先级
 
 如：先乘除，后加减
 
-![image-20210826165739066](https://github.com/Chcj-Wei/JavaScript/blob/master/JavaScript%E5%9F%BA%E7%A1%80/image-20210826165739066.png)
+![image-20210826165739066](https://github.com/Web-Wss/notes/blob/main/JavaScript/image-20210826165739066.png)
 
 # 代码块：
 
