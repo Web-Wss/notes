@@ -121,7 +121,7 @@ V：视图（View）：模板
 
 VM：试图模型（ViewModel）：Vue实例对象
 
-![image-20220121112019664](D:\StudyData\web\vue最新\image-20220121112019664.png)
+![image-20220121112019664](https://github.com/Web-Wss/notes/blob/main/vue/image-20220121112019664.png)
 
 ## 数据代理：
 
@@ -180,7 +180,7 @@ VM：试图模型（ViewModel）：Vue实例对象
 
 ## Vue中的数据代理：
 
-![image-20220121231121820](D:\StudyData\web\vue最新\image-20220121231121820.png)
+![image-20220121231121820](https://github.com/Web-Wss/notes/blob/main/vue/image-20220121231121820.png)
 
 1、Vue中的数据代理：
 
@@ -891,7 +891,7 @@ Vue.directive(指令名，回调函数)
 
 ## 生命周期：
 
-![Vue生命周期](D:\StudyData\web\vue最新\Vue生命周期.png)
+![Vue生命周期](https://github.com/Web-Wss/notes/blob/main/vue/Vue%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
 
 1、又名：生命周期回调函数、生命周期函数、生命周期钩子
 
@@ -1022,7 +1022,7 @@ data函数、methods中的函数、watch中的函数、computed中的函数，�
 
 ### Vue实例与组件实例：
 
-![image-20220222230217759](D:\StudyData\web\vue最新\image-20220222230217759.png)
+![image-20220222230217759](https://github.com/Web-Wss/notes/blob/main/vue/image-20220222230217759.png)
 
 ### 单文件组件：
 
