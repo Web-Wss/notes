@@ -154,5 +154,3 @@ json-server --watch db.json
     duanzi.get('/getJoke').then(response => { console.log(response.data); })
   </script>
 ```
-
-# axios源码分析：
